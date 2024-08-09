@@ -2,6 +2,8 @@
 ## Simple c++ codes.
 ## Aim - 
 Downloading and installing VS Code,(Hello World and Calculator program).
+## Apparatus -
+Online compiler (programiz)
 
 ## Theory - 
 These programs introduce fundamental concepts in C++ programming:
